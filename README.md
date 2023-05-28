@@ -12,10 +12,10 @@ Returning details about the downloaded image:
 - Date the image was added
 - Date the image download was completed
 Adding images to the queue for the service to download:
-● As a parameter, it will receive the URL of the image to be downloaded
-● As a result, it will return a URL where you can check if the image has already been downloaded
+- As a parameter, it will receive the URL of the image to be downloaded
+- As a result, it will return a URL where you can check if the image has already been downloaded
 Returning a list of objects from point 1.
-● The list should allow efficient browsing of a large number of images
+- The list should allow efficient browsing of a large number of images
 Non-functional requirements:
 The service API should be in compliance with REST standards (including error handling). The API should be as fast and lightweight as possible (little code, without heavy frameworks).
 Please prepare the task in a way that will be easy to test.
