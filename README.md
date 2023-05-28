@@ -1,5 +1,7 @@
 # ImageDownloader
 
+Coding project from a past recruitment.
+
 A service for downloading images needs to be implemented.
 Functional requirements:
 The API of the service should have 3 functions:
