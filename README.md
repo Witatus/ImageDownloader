@@ -7,10 +7,10 @@ Functional requirements:
 The API of the service should have 3 functions:
 
 Returning details about the downloaded image:
-● Source URL from which the image was downloaded
-● URL where our service stores a copy of the image
-● Date the image was added
-● Date the image download was completed
+- Source URL from which the image was downloaded
+- URL where our service stores a copy of the image
+- Date the image was added
+- Date the image download was completed
 Adding images to the queue for the service to download:
 ● As a parameter, it will receive the URL of the image to be downloaded
 ● As a result, it will return a URL where you can check if the image has already been downloaded
